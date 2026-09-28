@@ -15,4 +15,4 @@ If you are using 'https://github.com/Mexit/MultiOS-USB', it is just a few steps:
 2. Create a directory for 'grub.cfg' files: '/MultiOS-USB/config_priv/Mageia-scandev'
 3. Copy 'mageia-10.img' & 'Mageia-10-live.cfg' over there.
 4. Reboot into 'MultiOS-USB' and start e.g. 'Mageia-10-Live-Plasma-x86_64.iso [scandev]' entry.
-5. Live system should start same way as from a usb-stick.
+5. Live system should start same way as from usb-stick.
