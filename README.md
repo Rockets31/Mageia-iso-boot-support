@@ -1,6 +1,5 @@
 # Mageia-iso-boot-support
 Directly boot & install Mageia from Official Mageia Installation Media using grub2 without burning to usb-drive.
-Adding dmsquash-live module of dracut-fedora (https://github.com/redhat-plumbers/dracut-fedora/tree/main/modules.d).
 
 # Features
 - Filesystems: exfat, ext4
